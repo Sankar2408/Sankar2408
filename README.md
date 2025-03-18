@@ -105,7 +105,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sankar2408&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankar2408&" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sankar2408&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 <h3 align="left">💡 LeetCode Stats:</h3>
