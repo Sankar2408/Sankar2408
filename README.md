@@ -80,10 +80,10 @@
 
 #### NecTechFest 2K25 Symposium Website
 
-Developed responsive website for college's technical symposium
-Live Demo: https://techfestnec-ten.vercel.app/
-Built with modern web technologies for event registration and information
-Played a major role in team development effort
+-Developed responsive website for college's technical symposium
+-Live Demo: https://techfestnec-ten.vercel.app/
+-Built with modern web technologies for event registration and information
+-Played a major role in team development effort
 
 
 #### AI-Powered Smart Resource Chatbot (ongoing)
