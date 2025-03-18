@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Sankara Narayanan T</h1>
 <h3 align="center">A Passionate Software Engineer & MERN Stack Developer</h3>
 
@@ -6,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sankar2408&label=Profile%20views&color=0e75b6&style=flat" alt="Sankar2408" /> </p>
 
 - 🎓 I'm currently pursuing my **Engineering degree at National Engineering College**
-- 🌱 I'm currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I'm currently learning **MERN STACK Development**
 - 💻 I'm working on an **AI-Powered Smart Resource Chatbot**
 - 💬 Ask me about **MERN Stack, Java, Firebase, and Problem Solving**
 - 📫 How to reach me **sankarsn2004@gmail.com**
-- 🏆 Solved **2900+ problems on Skillrack, 350+ on LeetCode**
+- 🏆 Solved **2900+ problems on Skillrack, 350+ on LeetCode, 100+ on Coding Ninjas**
 
 ---
 
@@ -68,6 +70,12 @@
 
 <h3 align="left">🔥 My Projects:</h3>
 
+#### NecTechFest 2K25 Symposium Website
+- Developed responsive website for college's technical symposium
+- Live Demo: [https://techfestnec-ten.vercel.app/](https://techfestnec-ten.vercel.app/)
+- Built with modern web technologies for event registration and information
+- Played a major role in team development effort
+
 #### Choice-Based Credit System Web Application
 - Built with React.js & Firebase for real-time student choice selection
 - Implemented role-based authentication and optimized Firestore
@@ -77,14 +85,6 @@
 - Java Swing desktop application with MySQL backend
 - Intuitive GUI with optimized database performance
 - Secure data handling for flight management and bookings
-
-#### NecTechFest 2K25 Symposium Website
-
--Developed responsive website for college's technical symposium
--Live Demo: https://techfestnec-ten.vercel.app/
--Built with modern web technologies for event registration and information
--Played a major role in team development effort
-
 
 #### AI-Powered Smart Resource Chatbot (ongoing)
 - AI-driven chatbot using React.js and MongoDB
@@ -105,20 +105,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sankar2408&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sankar2408&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankar2408&" alt="GitHub Streak" /></p>
 
 ---
-<h3 align="left">💡 LeetCode Stats:</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sankar_sn24" alt="LeetCode Stats" />
-</p>
-
 
 <h3 align="left">🏆 Achievements:</h3>
 <p align="left">
-  ✅ ICPC rank of 1085<br>
+  ✅ ICPC rank of 1085<br
   ✅ Contributed to NECTECHFEST website development<br>
   ✅ Active Member of Institution of Engineers India (IEI)<br>
 </p>
