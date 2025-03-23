@@ -91,11 +91,6 @@
 - Integrated Gemini API for enhanced conversational accuracy
 - Designed to provide study materials and real-time responses
 
-#### Homely Hub Tourism Website
-- MERN Stack tourism website developed during internship
-- Responsive UI with backend integration
-- Complete experience from database management to deployment
-
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
