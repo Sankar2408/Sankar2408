@@ -80,7 +80,7 @@
 - Built with React.js & Firebase for real-time student choice selection
 - Implemented role-based authentication and optimized Firestore
 - Added PDF/Excel export for efficient data management
--Live Demo: [https://cbcs-portal.vercel.app/](https://cbcs-portal.vercel.app/)
+- Live Demo: [https://cbcs-portal.vercel.app/](https://cbcs-portal.vercel.app/)
 
 #### Airline Management System
 - Java Swing desktop application with MySQL backend
